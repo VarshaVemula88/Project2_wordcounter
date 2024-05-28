@@ -1,1 +1,1 @@
-# Project2_wordcounter
+The Word counter counts the number of words in a sentence/text
